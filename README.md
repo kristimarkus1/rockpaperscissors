@@ -12,7 +12,7 @@ This is a simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript
 ## How to Play
 
 1. Choose Rock, Paper, or Scissors by clicking the respective button.
-2. The computer will automatically choose one of the three options.
+2. The computer will automatically choose one of the three options randomly.
 3. The winner of the round is decided by the following rules:
    - Rock beats Scissors.
    - Scissors beats Paper.
