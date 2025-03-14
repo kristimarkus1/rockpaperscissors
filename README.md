@@ -33,4 +33,4 @@ To run the game locally:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in any browser.
 3. Play and enjoy the game!
-# rockpaperscissors
+
