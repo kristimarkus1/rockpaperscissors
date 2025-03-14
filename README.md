@@ -2,6 +2,8 @@
 
 This is a simple Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. It allows the player to play against the computer, keeping track of the score, and determining the winner of each round.
 
+Hosted on vercel: https://rockpaperscissors-virid.vercel.app/ 
+
 ## Features
 
 - Play the classic Rock, Paper, Scissors game against the computer.
